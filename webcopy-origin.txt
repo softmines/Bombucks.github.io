@@ -1,0 +1,16 @@
+Uri: https://bombucks.verxmin.ru/
+File Name: C:\Users\Użytkownik\Desktop\верстка\bombucks.verxmin.ru\index.htm
+Content Type: text/html
+
+Uri: https://bombucks.verxmin.ru/back.png
+File Name: C:\Users\Użytkownik\Desktop\верстка\bombucks.verxmin.ru\back.png
+Content Type: image/png
+
+Uri: https://bombucks.verxmin.ru/intro.otf
+File Name: C:\Users\Użytkownik\Desktop\верстка\bombucks.verxmin.ru\intro.otf
+Content Type: application/octet-stream
+
+Uri: https://bombucks.verxmin.ru/logo.jpg
+File Name: C:\Users\Użytkownik\Desktop\верстка\bombucks.verxmin.ru\logo.jpg
+Content Type: image/jpeg
+
